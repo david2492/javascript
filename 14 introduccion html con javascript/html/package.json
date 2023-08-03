@@ -1,0 +1,13 @@
+{
+  "name": "modulos-es6",
+  "version": "1.0.0",
+  "description": "modulos-es6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "http-server ." ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonathan rodriguez",
+  "license": "ISC"
+}

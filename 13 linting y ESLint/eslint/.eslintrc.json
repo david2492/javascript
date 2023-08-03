@@ -1,0 +1,15 @@
+// archivo de configuracion de reglas ESLint
+//vamos a la documentacion ESLing
+//copiar una configuracion adecuada
+
+
+{
+    "rules": {
+        // Override our default settings just for this directory
+        "eqeqeq": "warn",
+        "strict": "off",
+        "quotes":["warn", "double"], //comillas
+        "semi": ["error" , "never"], 
+        "no-dupe-keys":"error" //en un mismo objeto no puede a ver dos atributos o dos funciones con el mismo nombre
+    }
+}

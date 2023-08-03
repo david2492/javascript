@@ -1,0 +1,16 @@
+{
+  "name": "numbers",
+  "version": "1.0.0",
+  "description": "este es mi quinto proyecto en javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quinto",
+    "proyecto"
+  ],
+  "author": "jonathan rodriguez",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "modulos-es6",
+  "version": "1.0.0",
+  "description": "modulos-es6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix":"eslint --fix ."
+  },
+  "author": "jonathan rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}

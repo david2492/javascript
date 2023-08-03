@@ -1,0 +1,28 @@
+.seccion {
+    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1em;
+}
+
+.parrafo {
+    background-color: white;
+    padding: 1rem;
+}
+
+.parrafo.dragging {
+    opacity: 0.3;
+}
+
+.imagen-fantasma {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: absolute;
+    left: -100vw;
+}
+
+.papelera {
+    width: 100px;
+    height: 100px;   
+}

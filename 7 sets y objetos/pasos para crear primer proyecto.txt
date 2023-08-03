@@ -1,0 +1,25 @@
+1) abrir el visual studio code
+2) terminal nuevo terminal 
+
+npm init 
+paackage name: el nombre del archivo
+descripcion: este es mi primer proyecto de javascript con node en open bootcamp
+entry point: (index.js)
+test command: 
+git repository:
+keywords: holamundo, first protect
+author: Jonathan Rodriguez
+license: (ISC)
+
+is this OK ? (yes) enter
+
+
+
+Modificar el package.json
+
+en scripts
+
+"start": "node index.js" 
+
+
+F1 para abrir con quokka
